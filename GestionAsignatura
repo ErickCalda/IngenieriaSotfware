@@ -1,1 +1,20 @@
+Tema: Gestión de Asignaturas
+Introducción 
+
+La gestión de asignaturas abarca un abanico diverso de tareas, que van desde la programación de cursos hasta el seguimiento individualizado 
+del progreso de los estudiantes. La base de datos propuesta no solo centralizará y organizará la información relacionada con las asignaturas
+y sus respectivos planos de estudio, sino que también permitirá automatizar procesos administrativos, generar informes detallados y facilitar 
+la comunicación entre profesores y alumnos.
+La esencia de este proyecto radica en la construcción de una base de datos que almacene de manera estructurada y segura toda la información
+relevante sobre las asignaturas. Esto incluye detalles como horarios, contenidos, recursos didácticos, requisitos previos y registros de 
+evaluación. Mediante una interfaz intuitiva y amigable, los usuarios tendrán acceso a un panel de control que les permitirá gestionar estas 
+asignaturas de manera eficiente y efectiva.
+
+Objetivos Generales
+•	Diseñar una estructura de base de datos que permita almacenar y organizar la información de las asignaturas de manera eficiente, reducir la 
+redundancia y mejorar la integridad de los datos.
+Objetivos Específicos
+•	Definir el modelo de la base de datos a realizar
+•	Definir las tablas, y los campos requeridos para llevar a cabo la administración de las asignaturas.
+•	Establecer las relaciones necesarias entre las tablas ya creadas de las bases de datos.
 
