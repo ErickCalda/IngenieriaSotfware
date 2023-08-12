@@ -11,8 +11,9 @@ evaluación. Mediante una interfaz intuitiva y amigable, los usuarios tendrán a
 asignaturas de manera eficiente y efectiva.
 
 Objetivos Generales
-•	Diseñar una estructura de base de datos que permita almacenar y organizar la información de las asignaturas de manera eficiente, reducir la 
-redundancia y mejorar la integridad de los datos.
+•	Diseñar una estructura de base de datos que permita almacenar y organizar la información de las asignaturas de manera
+eficiente, reducir la redundancia y mejorar la integridad de los datos.
+
 Objetivos Específicos
 •	Definir el modelo de la base de datos a realizar
 •	Definir las tablas, y los campos requeridos para llevar a cabo la administración de las asignaturas.
