@@ -17,6 +17,12 @@ relevante sobre las asignaturas. Esto incluye detalles como horarios, contenidos
 evaluación. Mediante una interfaz intuitiva y amigable, los usuarios tendrán acceso a un panel de control que les permitirá gestionar estas 
 asignaturas de manera eficiente y efectiva.
 
+La implementación de este sistema de gestión de asignaturas no solo simplificará la labor de los docentes y el personal administrativo, sino que 
+también empoderará a los estudiantes al brindarles una plataforma donde podrán acceder a información actualizada sobre sus cursos, entregar tareas 
+en línea, consultar opiniones y establecer comunicación directa con sus profesores. Además, se contempla la posibilidad de generar recordatorios 
+automáticos para fechas importantes, lo que contribuirá a un mejor seguimiento del calendario académico.
+
+
 Objetivos Generales
 •	Diseñar una estructura de base de datos que permita almacenar y organizar la información de las asignaturas de manera
 eficiente, reducir la redundancia y mejorar la integridad de los datos.
