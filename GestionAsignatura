@@ -1,34 +1,46 @@
-Tema: Gestión de Asignaturas
+Tema: Gestión de Asignaturas.
+
 Introducción 
-En la era digital en la que vivimos, la gestión eficiente de la información se ha convertido en
-un pilar fundamental para la optimización de procesos en diversas áreas. En este contexto, el 
-presente proyecto surge como una solución innovadora y altamente beneficiosa para el entorno 
-educativo: un sistema de gestión de asignaturas basado en una base de datos robusta. 
-La creciente complejidad de los programas académicos y la necesidad de un enfoque más 
-ágil y preciso en la administración de las asignaturas hacen que esta 
-propuesta sea esencial para instituciones educativas, profesores y estudiantes por igual.
 
-La gestión de asignaturas abarca un abanico diverso de tareas, que van desde la programación de cursos hasta el seguimiento individualizado 
-del progreso de los estudiantes. La base de datos propuesta no solo centralizará y organizará la información relacionada con las asignaturas
-y sus respectivos planos de estudio, sino que también permitirá automatizar procesos administrativos, generar informes detallados y facilitar 
-la comunicación entre profesores y alumnos.
-La esencia de este proyecto radica en la construcción de una base de datos que almacene de manera estructurada y segura toda la información
-relevante sobre las asignaturas. Esto incluye detalles como horarios, contenidos, recursos didácticos, requisitos previos y registros de 
-evaluación. Mediante una interfaz intuitiva y amigable, los usuarios tendrán acceso a un panel de control que les permitirá gestionar estas 
-asignaturas de manera eficiente y efectiva.
+En la actualidad, en plena era digital, la gestión de asignaturas mediante un sistema basado en bases
+de datos no solo se ha convertido en una necesidad, sino que también representa una oportunidad
+para mejorar sustancialmente la eficiencia operativa en instituciones educativas. Este enfoque no
+solo simplifica las tareas administrativas, sino que también contribuye de manera significativa a la
+mejora continua del proceso educativo en su conjunto. La capacidad de generar informes detallados
+y estadísticas sobre el rendimiento de los estudiantes brinda a las instituciones la valiosa capacidad
+de tomar decisiones fundamentadas y adaptativas en función de datos precisos. En última instancia,
+la gestión de asignaturas basada en bases de datos empodera a las instituciones educativas para
+brindar una experiencia educativa más efectiva y personalizada a sus estudiantes, adaptándose a las
+demandas cambiantes del mundo moderno. 
 
-La implementación de este sistema de gestión de asignaturas no solo simplificará la labor de los docentes y el personal administrativo, sino que 
-también empoderará a los estudiantes al brindarles una plataforma donde podrán acceder a información actualizada sobre sus cursos, entregar tareas 
-en línea, consultar opiniones y establecer comunicación directa con sus profesores. Además, se contempla la posibilidad de generar recordatorios 
-automáticos para fechas importantes, lo que contribuirá a un mejor seguimiento del calendario académico.
+La creación de una base de datos especializada para la gestión de asignaturas trasciende la mera administración
+de datos. Este proceso implica la cuidadosa estructuración y el almacenamiento de información crítica relacionada
+con cada curso, lo que permite a los profesores, estudiantes y personal administrativo acceder a datos
+precisos y actualizados en tiempo real. Esta base de datos se convierte en el corazón del sistema educativo,
+proporcionando una fuente centralizada y segura de información esencial para todos los actores involucrados en
+el proceso educativo. 
 
+Además de simplificar la gestión de datos, una base de datos de gestión de asignaturas se convierte en un
+canal de comunicación efectivo entre todos los participantes en la educación. Los profesores pueden utilizarlo
+para enviar notificaciones y anuncios importantes, como cambios en horarios, fechas de exámenes y eventos académicos.
+Del mismo modo, los estudiantes pueden estar al tanto de todas estas actualizaciones de manera eficiente. Esta promoción
+de la comunicación transparente y colaborativa es esencial para crear un ambiente educativo cohesionado y asegurarse
+de que todos los involucrados estén alineados con los objetivos académicos y administrativos. 
 
 Objetivos Generales
-•	Diseñar una estructura de base de datos que permita almacenar y organizar la información de las asignaturas de manera
-eficiente, reducir la redundancia y mejorar la integridad de los datos.
+
+El objetivo principal de este proyecto es diseñar una estructura de base de datos sólida y eficiente
+que permita almacenar y organizar la información relacionada con las asignaturas de manera óptima.
+Esto se logrará reduciendo la redundancia de datos y mejorando la integridad de la información, lo que
+facilitará su acceso y gestión en el entorno educativo. 
 
 Objetivos Específicos
-•	Definir el modelo de la base de datos a realizar
-•	Definir las tablas, y los campos requeridos para llevar a cabo la administración de las asignaturas.
-•	Establecer las relaciones necesarias entre las tablas ya creadas de las bases de datos.
 
+1. Definir un modelo de base de datos que sea altamente adaptable a las necesidades específicas de la gestión
+de asignaturas, asegurando así su eficacia y eficiencia en el tiempo. 
+
+2. Identificar y definir las tablas necesarias para el correcto funcionamiento del sistema, así como los
+campos requeridos para llevar a cabo la administración de las asignaturas de manera exhaustiva. 
+
+3. Establecer relaciones sólidas entre las tablas ya creadas en la base de datos, garantizando que los
+datos se relacionen de manera coherente y que el sistema funcione de manera óptima en todas sus dimensiones.  
